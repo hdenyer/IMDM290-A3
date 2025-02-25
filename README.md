@@ -5,6 +5,8 @@ by Holden Denyer and Lovie Pham
 Watch as each element of this Genshin Impact-inspired scene dances to the music! Rocks, boulders, a temple gate, a rotating sigil, and even lightning all react to different frequencies from the song.
 Follow each stage of the song with its own unique scene!
 
+[Click here to watch on YouTube!!](https://youtu.be/XHjo85ggBbk)
+
 At the exposition:
 ![exposition](https://github.com/user-attachments/assets/33385b99-f1ba-4d69-bf31-4f0ad03492b2)
 
@@ -19,6 +21,3 @@ Falling action:
 
 And conclusion:
 ![exposition](https://github.com/user-attachments/assets/1c16f0e5-b220-43da-8600-037c406ae222)
-
-
-Experience the whole song here:
